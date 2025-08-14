@@ -1,26 +1,11 @@
 # Core data science packages
-pandas==2.3.1
-numpy==2.3.2
-matplotlib==3.10.1
-seaborn==0.13.2
-plotly==5.24.0
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+gdown 
 
-# Streamlit and web framework
-streamlit==1.48.1
-
-# Machine learning and statistics
-scikit-learn==1.5.2
-statsmodels==0.15.0
-
-# Data downloading
-gdown==4.7.3
-
-# Jupyter for development
-jupyter==1.0.0
-notebook==7.1.3
-jupyterlab==4.2.0
-
-# Additional dependencies
-altair==5.5.0
-pyarrow==21.0.0
-protobuf==6.31.1
